@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 # Hey there!
 It's Sourav from India. I am a passionate front-end web developer.Also aspiring to be a full stack web developer.A dedicated tech-enthusiast and a quick learner who always ready to explore new languages and frameworks. Interested in UI/UX design and making real life projects.
 <h1 align="center">Hi 👋, I'm Sourav Pal</h1>
