@@ -8,7 +8,7 @@ It's Sourav from India. I am a passionate front-end web developer.Also aspiring 
 
 <p align="left"> <a href="https://twitter.com/sourav pal" target="blank"><img src="https://img.shields.io/twitter/follow/sourav pal?logo=twitter&style=for-the-badge" alt="sourav pal" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **Front-end development,ui/ux design,**
 
