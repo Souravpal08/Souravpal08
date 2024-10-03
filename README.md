@@ -14,7 +14,7 @@ It's Sourav from India. I am a passionate front-end web developer.Also aspiring 
 
 - 📫 How to reach me **www.souravpal2003@gmail.com**
 
-- ⚡ Fun fact **I am enough funny to make you smile**
+- ⚡ Fun fact **I can debug code without coffee **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
